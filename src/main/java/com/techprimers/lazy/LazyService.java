@@ -11,6 +11,6 @@ public class LazyService {
     }
 
     public String hello() {
-        return "hello youtube";
+        return "Kubernetes en Google Cloud";
     }
 }
